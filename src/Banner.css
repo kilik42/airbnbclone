@@ -1,12 +1,12 @@
 .banner{
-    background: url("https://a0.muscache.com/im/pictures/9e4c1f26-9376-42ed-b50d-b83b3211691b.jpg?im_w=720");
+    background: url("https://a0.muscache.com/im/pictures/9e4c1f26-9376-42ed-b50d-b83b3211691b.jpg?im_w=720")center center;
     height: 50vh;
     width:100vw;
     /* width: 100vw; */
     position: relative;
      background-repeat: no-repeat;
     /*object-fit: cover; */
-     background-size: contain;
+     background-size: cover;
   background-position: center;
   background-attachment: fixed;
   object-fit: cover;
